@@ -1,0 +1,208 @@
+{
+    "header": {
+        "logo":{
+          "src": "https://i.ibb.co/zVVSbqZ/logo-light.png",
+          "alt": "logo light"
+        },
+        "navLinks":[
+          { "text": "About", "url": "/about" },
+          {"text": "Collection","url": "/collection" },
+          { "text": "Contact", "url": "/contact" },
+          { "text": "Shop", "url": "/shop" }
+        ],
+    "search": {
+      "placeholder": "Search..."
+    },
+    "cart": {
+      "icon": "fa-shopping-cart",
+      "url": "/cart"
+    }
+    },
+
+    "products": {
+    "tabs": [
+      {
+        "name": "Hot",
+        "items": [
+          {
+            "img": "https://i.ibb.co/hsjBD45/stylish-woman-standing-white-stylish-orange-sweater-multicolor-stripe-culotte-removebg-preview-1-2.png",
+            "name": "Stylish Thick Top",
+            "discountPrice": 19.99,
+            "actualPrice": 29.99,
+            "rating": 4.5
+          },
+          {
+            "img": "https://i.ibb.co/bW1m2Cg/hotter-img2.png",
+            "name": "Comfy Jean Trousers",
+            "discountPrice": 24.99,
+            "actualPrice": 39.99,
+            "rating": 4.0
+          },
+          {
+            "img": "https://i.ibb.co/3h10WsT/hotter-img3.png",
+            "name": "Leather Jacket & Pant",
+            "discountPrice": 24.99,
+            "actualPrice": 39.99,
+            "rating": 4.0
+          }
+        ]
+      },
+      {
+        "name": "Sales",
+        "items": [
+
+          {
+            "img": "https://i.ibb.co/k0XJD81/image-1-8-removebg-preview-1-1-1.png",
+            "discountPrice": 29.99,
+            "actualPrice": 49.99,
+            "rating": 4.5,
+            "name": "Turtle Neck Top"
+          },
+          {
+            "img": "https://i.ibb.co/ftNXwMM/really-you-can-trust-me-removebg-preview-1-1.png",
+            "discountPrice": 19.99,
+            "actualPrice": 39.99,
+            "rating": 4.0,
+            "name": "Turtle Neck Top"
+          },
+          {
+            "img": "https://i.ibb.co/BjmSNNs/image-1-4-removebg-preview-1-1.png",
+            "discountPrice": 15.99,
+            "actualPrice": 29.99,
+            "rating": 3.5,
+            "name": "Turtle Neck Top"
+          },
+          {
+            "img": "https://i.ibb.co/1vCHnhM/image-1-6-removebg-preview-1-1.png",
+            "discountPrice": 29.99,
+            "actualPrice": 49.99,
+            "rating": 4.5,
+            "name": "Turtle Neck Top"
+          },
+          {
+            "img": "https://i.ibb.co/s63bPW3/image-1-14-removebg-preview-1-1.png",
+            "discountPrice": 19.99,
+            "actualPrice": 39.99,
+            "rating": 4.0,
+            "name": "Turtle Neck Top"
+          },
+          {
+            "img": "https://i.ibb.co/FKLxR4c/image-1-5-removebg-preview-1-1.png",
+            "discountPrice": 15.99,
+            "actualPrice": 29.99,
+            "rating": 3.5,
+            "name": "Turtle Neck Top"
+          },
+          {
+            "img": "https://i.ibb.co/ckGhd9V/image-1-9-removebg-preview-2-1.png",
+            "discountPrice": 15.99,
+            "actualPrice": 29.99,
+            "rating": 3.5,
+            "name": "Turtle Neck Top"
+          },
+          {
+            "img": "https://i.ibb.co/HTC037g/portrait-young-stylish-girl-model-casual-summer-clothes-brown-hat-with-natural-makeup-isolated-remov.png",
+            "discountPrice": 15.99,
+            "actualPrice": 29.99,
+            "rating": 3.5,
+            "name": "Turtle Neck Top"
+          }
+        ]
+      },
+      {
+        "name": "New Arrival",
+        "items": [
+              
+          {
+            "img": "path/to/new-arrival-product1.jpg",
+            "name": "New Arrival Product 1",
+            "discountPrice": 29.99,
+            "actualPrice": 49.99,
+            "rating": 5.0
+          },
+          {
+            "img": "path/to/new-arrival-product2.jpg",
+            "name": "New Arrival Product 2",
+            "discountPrice": 34.99,
+            "actualPrice": 59.99,
+            "rating": 4.8
+          }
+  
+        ]
+      },
+      {
+        "name": "Accessories",
+        "items": [
+          {
+            "img": "path/to/accessories-product1.jpg",
+            "name": "Accessories Product 1",
+            "discountPrice": 5.99,
+            "actualPrice": 9.99,
+            "rating": 4.0
+          },
+          {
+            "img": "path/to/accessories-product2.jpg",
+            "name": "Accessories Product 2",
+            "discountPrice": 7.99,
+            "actualPrice": 12.99,
+            "rating": 4.3
+          }
+        ]
+      }
+    ]
+  },
+  "reviews":[
+    {"name" : "Tiara James", "comments": "The is so superb,it fits perfectly on me,The dress quality is highly recommendable"},
+    {"name" : "Rosy Vick", "comments": "The is so superb,it fits perfectly on me,The dress quality is highly recommendable"},
+    {"name" : "Mary Smith", "comments": "The is so superb,it fits perfectly on me,The dress quality is highly recommendable"}
+
+  ],
+  "footer": {
+    "columns": [
+      {
+        "title": "Social Links",
+        "links": [
+          {  "url": "https://www.facebook.com", "icon": "fa-instagram", "isIcon" : true },
+          { "url": "https://www.twitter.com" , "icon": "fa-facebook-f", "isIcon" : true},
+          { "url": "https://www.instagram.com", "icon": "fa-twitter", "isIcon" : true }
+        ]
+      },
+      {
+        "title": "Shop",
+        "links": [
+          { "name": "Product", "url": "/" },
+          { "name": "Overview", "url": "/" },
+          { "name": "Pricing", "url": "/" },
+          { "name": "Releases", "url": "/" }
+        ]
+      },
+      {
+        "title": "Company",
+        "links": [
+          { "name": "About Us", "url": "/" },
+          { "name": "Contact", "url": "/" },
+          { "name": "Privacy Policy", "url": "/" },
+          { "name": "Terms & Conditions", "url": "/" }
+        ]
+      },
+      {
+        "title": "Resources",
+        "links": [
+          { "name": "Help Center", "url": "/" },
+          { "name": "Support", "url": "/" },
+          { "name": "Newsletter", "url": "/" }
+        ]
+      },
+      {
+        "title": "Stay up to date",
+        "description": "Sign up for our newsletter to stay updated.",
+        "subscribeForm": {
+          "placeholder": "Enter your email",
+          "buttonText": "Submit"
+        }
+      }
+      
+    ]
+  }
+}
+
